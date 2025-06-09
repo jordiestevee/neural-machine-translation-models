@@ -20,6 +20,7 @@ The project was developed using:
 - **Matplotlib**: 3.10.0
 - **Transformers (HuggingFace)**: 4.x (for the Transformer model)
 
+No need to worry about this since each document contains all the important downloads and imports you must do to run correctly.
 ---
 
 ### 2. Datasets
