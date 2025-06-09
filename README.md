@@ -50,6 +50,8 @@ The code is designed to run on **Google Colab** with GPU acceleration.
 
 ### 3.1 Transformer (English to Spanish)
 
+This code isn't available on the Github preview, but if you download it you will see it correctly.
+
 To test this model, open the `Transformer.ipynb` file. The only model worth testing is the final transformer saved under the Hugging Face account as `my_model_f`.  We have provided some English sentences for testing purposes.
 
 #### Steps:
@@ -63,6 +65,8 @@ While the model translates basic sentences from English to Spanish, performance 
 ---
 
 ### 3.2 LSTM Encoder-Decoder (English to Italian)
+
+This code isn't available on the Github preview, but if you download it you will see it correctly.
 
 #### Steps:
 
